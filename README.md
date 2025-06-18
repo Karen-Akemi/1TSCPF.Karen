@@ -1,10 +1,6 @@
 # 1TSCPF.Karen
-Repositório da aluna Karen da turma 1TSCPF
+Repositório da aluna Karen da turma 1TSCPF de Data Science da FIAP
 
-Primeira vez usando GitHub
+Primeira vez criando um repositório no GitHub
 
-Alterando o arquivo de readme
-
-alterando
-
-alterando de novo
+Repositório onde serão armazenados algumas das atividades feitas na aula de Database Application & Data Science durante o primeiro semestre
